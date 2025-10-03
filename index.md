@@ -30,3 +30,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=fff)](mailto:youremail@example.com)
 
 ![Cat Art](https://i.pinimg.com/736x/01/ad/84/01ad8466dc020af974d32d0b57610b7c.jpg)
+
+``` javascript
+var myVar = "Hello, world!";
+```
